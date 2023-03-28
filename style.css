@@ -34,5 +34,11 @@
     right: 0;
     background-image: linear-gradient(rgba(140, 92, 253, 0.75), rgba(68, 55, 173, 0.85));
     padding: 20px 60px;
-    
+    color: #fff;
+} 
+
+.top-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
